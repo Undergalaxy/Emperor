@@ -1,4 +1,4 @@
-# This is the README of HyperSloth's PSMOVE-Unity5 https://github.com/HipsterSloth/psmove-unity5
+# This is the README of HipsterSloth's PSMOVE-Unity5 https://github.com/HipsterSloth/psmove-unity5
 # This project is modification of his work
 
 <pre>
