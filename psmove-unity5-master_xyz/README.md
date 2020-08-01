@@ -1,5 +1,8 @@
 <pre>
-  _____   _____ __  __  ______      ________      _    _       _ _         _____ 
+# This is the README of HyperSloth's PSMOVE-Unity5 https://github.com/HipsterSloth/psmove-unity5
+# This project is modification of his work
+
+_____   _____ __  __  ______      ________      _    _       _ _         _____ 
  |  __ \ / ____|  \/  |/ __ \ \    / /  ____|    | |  | |     (_) |       | ____|    
  | |__) | (___ | \  / | |  | \ \  / /| |__ ______| |  | |_ __  _| |_ _   _| |__  
  |  ___/ \___ \| |\/| | |  | |\ \/ / |  __|______| |  | | '_ \| | __| | | |___ \ 
